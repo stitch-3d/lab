@@ -24,7 +24,22 @@ Some of the tools and platforms I'm exploring (or plan to explore) in this lab i
 - **Keycloak / OAuth2 Proxy**
 - and more...
 
-## 📁 Repository Structure
+> 📌 As the lab evolves, the structure may expand to include GitOps configs, automation, and more detailed documentation.
 
-# lab
-Lab testing
+## 💡 Goals
+
+- Build a reliable, modular home lab environment
+- Understand real-world cloud-native workflows
+- Practice infrastructure-as-code and GitOps
+- Experiment freely and break things safely 😄
+
+## 🔐 Disclaimer
+
+This is a personal learning environment. While care is taken to follow best practices, configurations here may not be production-grade or secure out-of-the-box. Use at your own risk!
+
+---
+
+Feel free to fork, learn, and explore. Contributions and suggestions are welcome!
+
+
+
